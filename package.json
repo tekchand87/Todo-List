@@ -1,0 +1,9 @@
+{
+  "name": "hehehe",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "run-p backend frontend",
+    "backend": "npm run dev --prefix Backend",
+    "frontend": "npm run dev --prefix frontend"
+  }
+}

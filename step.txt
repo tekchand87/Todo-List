@@ -1,0 +1,2 @@
+1. npm install npm-run-all --save-dev
+install this one then package.json
